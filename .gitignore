@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional but recommended)
+data/jobs.csv
+
+# Logs
+*.log
+
+# Jupyter (if you ever add notebooks)
+.ipynb_checkpoints/
+
+# Streamlit cache (if used)
+.streamlit/
